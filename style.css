@@ -1,0 +1,180 @@
+body{
+    background-image: url(imges/7.jpg);
+    background-size: 100%;
+    width: 100%;
+    height: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.headerul{
+    height: 100px;
+    width: 100%;
+}
+.headerul>ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+header{
+    width: 100%;
+    height: 400px;
+}
+.headrimg{
+   width: 700px;
+   height: 400px;
+   background-size: 800%;
+   display: flex;
+   justify-content: center;
+   margin: 20px;
+}
+.headrlogo{
+    background-image: url(imges/13.jpg);
+    background-size: 100%;
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+    margin-right: 1500px;
+    display: flex;
+}
+.headrbutton1{
+    background-image: url(imges/15.jpg);
+    height: 90px;
+    width: 90px;
+     border-radius: 50px;
+}
+.headrbutton2{
+    background-image: url(imges/15.jpg);
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+}
+.headrbutton3{
+     background-image: url(imges/15.jpg);
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+}
+.maininfoblock{
+    width: 300px;
+    height: 100px;
+}
+.img1{
+    width:100px ;
+    height:100px ;
+    background-image: url(imges/14.jpg);
+}
+.img2{
+    width:100px ;
+    height:100px ;
+    background-image: url(imges/14.jpg);
+}
+.maininfoblock>p{
+    width: 250px;
+}
+.maininfo{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(207, 203, 203);
+    display: flex;
+    justify-content: space-evenly;
+}
+.lol{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+}
+main{
+    width: 100%;
+    height: 1500px;
+}
+.MainMain{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.mainmain{
+    height: 550px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.help{
+    font-size: larger;
+}
+.maininfoblock{
+    width: 600px;
+    height: 100%;
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+}
+.mainleft{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 150px;
+    height: 100%;
+    background-color: rgb(185, 177, 177);
+}
+.mainileft>div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(240, 214, 202);
+    border-radius: 25px;
+}
+.mainslider{
+    background-color: rgb(220, 214, 248);
+    width: 1400px;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: scroll ;
+    white-space: nowrap;
+}
+.mainslider>div{
+    width: 550px;
+    height: 550px;
+    background-color: rgb(173, 230, 206);
+    display: inline-block;
+}
+.HeaderImagesMnogo{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(185, 177, 177);
+}
+.all{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.text1{
+    margin-top: 150px;
+    margin-left: 300px;
+    width: 350px;
+    height: 300px;
+}
+.text2{
+    margin-top: 150px;
+    width: 350px;
+    height: 300px;
+}
+.text3{
+    margin-top: 150px;
+    width: 350px;
+    height: 00px;
+}
+.text4{
+    margin-top: 150px;
+    width: 350px;
+    height: 300px;
+}
